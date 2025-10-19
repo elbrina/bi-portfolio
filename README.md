@@ -11,7 +11,13 @@ Overtime:
 <img width="1458" height="836" alt="image" src="https://github.com/user-attachments/assets/f64ce55e-908e-4670-b18a-68f33a94c07d" />
 
 Employee Card:
-<img width="1459" height="832" alt="image" src="https://github.com/user-attachments/assets/6ca1cde6-4d22-4aaa-81e1-541fef2e13bb" />
+<img width="1446" height="833" alt="image" src="https://github.com/user-attachments/assets/47edd13a-e18a-4f53-b5b7-795c1ef60741" />
+
+Project Info:
+<img width="1460" height="838" alt="image" src="https://github.com/user-attachments/assets/69281585-bb80-435b-9f67-c8fd25c52767" />
+
+
+
 
 
 
