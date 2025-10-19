@@ -7,6 +7,14 @@ Team Overview:
 Quality Stats:
 <img width="1449" height="833" alt="image" src="https://github.com/user-attachments/assets/76c5b5f4-9519-4554-bbc9-61c9e221e6b6" />
 
+Overtime:
+<img width="1458" height="836" alt="image" src="https://github.com/user-attachments/assets/f64ce55e-908e-4670-b18a-68f33a94c07d" />
+
+Employee Card:
+<img width="1459" height="832" alt="image" src="https://github.com/user-attachments/assets/6ca1cde6-4d22-4aaa-81e1-541fef2e13bb" />
+
+
+
 
 
 
