@@ -1,5 +1,5 @@
 An example of a multi-page dashboard made in Power BI. Shows employee statistics for production, quality and overtime utilization of a fictional company.
-Click [HERE](https://github.com/elbrina/bi-portfolio/archive/refs/tags/bi_example.zip) to download the file **"PowerBI_Dashboard_ABC_PQO_1.pbix"** listed above to explore the report and data/semantic model directly in Power BI.
+Click [HERE](https://github.com/elbrina/bi-portfolio/archive/refs/tags/bi_ex.zip) to download the file **"PowerBI_Dashboard_ABC_PQO_1.pbix"** listed above to explore the report and data/semantic model directly in Power BI.
 
 Team Overview:
 <img width="1454" height="832" alt="image" src="https://github.com/user-attachments/assets/a1e9d3bd-551b-4fc9-ae2e-0c279ab1eb4f" />
