@@ -8,7 +8,7 @@ Quality Stats:
 <img width="1449" height="833" alt="image" src="https://github.com/user-attachments/assets/76c5b5f4-9519-4554-bbc9-61c9e221e6b6" />
 
 Overtime:
-<img width="1458" height="836" alt="image" src="https://github.com/user-attachments/assets/f64ce55e-908e-4670-b18a-68f33a94c07d" />
+<img width="1446" height="833" alt="image" src="https://github.com/user-attachments/assets/0d57df21-9197-404f-b0f8-4f54be733ab8" />
 
 Employee Card:
 <img width="1446" height="833" alt="image" src="https://github.com/user-attachments/assets/47edd13a-e18a-4f53-b5b7-795c1ef60741" />
